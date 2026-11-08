@@ -1,0 +1,16 @@
+source_group,area,culturable_wasteland_ha,culturable_wasteland_acres,annual_conservation_potential_maf,annual_conservation_potential_mcm
+Federal / Northern Area,Northern Area,60700.0,149929.0,0.94,1159.0
+Federal / AJK,Azad Jammu & Kashmir,33600.0,82992.0,0.4,493.0
+Federal / FATA (legacy classification),FATA,178700.0,441389.0,1.5,1850.0
+NWFP / KP,D.I. Khan,419000.0,1034930.0,0.8,986.0
+NWFP / KP,FATA (legacy classification; duplicated in source table),178700.0,441389.0,1.5,1850.0
+NWFP / KP,"Hazara, Kabul & Bannu",442300.0,1092481.0,3.76,4636.0
+Punjab,D.G. Khan,349700.0,863759.0,0.854,1053.0
+Punjab,Potohar,220800.0,545376.0,1.86,2293.0
+Punjab,Rachna & Chaj Doab,,,,
+Sindh,Kirthar Range,279300.0,689871.0,0.296,365.0
+Sindh,Karachi,64560.0,159463.0,0.094,116.0
+Sindh,Sehwan & Petaro,207000.0,511290.0,0.33,407.0
+Balochistan,Indus Basin Component,837900.0,2069613.0,4.067,5015.0
+Balochistan,Kharan,1060500.0,2619435.0,0.789,973.0
+Balochistan,Makran,2781500.0,6870305.0,3.0,3690.0

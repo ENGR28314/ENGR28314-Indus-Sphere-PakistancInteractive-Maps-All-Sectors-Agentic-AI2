@@ -1,0 +1,4 @@
+river_group,average_annual_flow_maf,reference_basis,source_url
+"Western Rivers (Indus, Jhelum, Chenab)",145,Historical system-level figure stated in PBC/PEF presentation,https://www.pbc.org.pk/wp-content/uploads/Water-Presentation-PEF-III-.pdf
+"Eastern Rivers (Ravi, Sutlej, Beas)",27,Historical figure stated in same presentation; context includes pre-1947 inflow / historic Punjab share,https://www.pbc.org.pk/wp-content/uploads/Water-Presentation-PEF-III-.pdf
+Combined historical reference,172,Arithmetic sum of presentation figures; pre-14 August 1947 context,https://www.pbc.org.pk/wp-content/uploads/Water-Presentation-PEF-III-.pdf

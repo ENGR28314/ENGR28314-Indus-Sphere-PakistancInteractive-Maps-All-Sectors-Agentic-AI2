@@ -1,0 +1,13 @@
+record_type,name,value,unit,reference_basis,source_url
+River flow,Western Rivers (Indus, Jhelum, Chenab),145,MAF/year,Historical PBC/PEF presentation figure; not current gauge data,https://www.pbc.org.pk/wp-content/uploads/Water-Presentation-PEF-III-.pdf
+River flow,Eastern Rivers (Ravi, Sutlej, Beas),27,MAF/year,Historical PBC/PEF presentation figure with pre-1947 context,https://www.pbc.org.pk/wp-content/uploads/Water-Presentation-PEF-III-.pdf
+River flow,Combined historical reference,172,MAF/year,Arithmetic sum of historical presentation figures; pre-14 August 1947 context,https://www.pbc.org.pk/wp-content/uploads/Water-Presentation-PEF-III-.pdf
+Project storage,Bunji,0.06,MAF,Status and storage as supplied in project reference table,
+Project storage,Diamer Bhasha,6.40,MAF,Status and storage as supplied in project reference table,
+Project storage,Dasu,0.69,MAF,Status and storage as supplied in project reference table,
+Project storage,Thakot HPP,0.16,MAF,Status and storage as supplied in project reference table,
+Project storage,Pattan,0.06,MAF,Status and storage as supplied in project reference table,
+Project storage,Yulbo,0.12,MAF,Status and storage as supplied in project reference table,
+Project storage,Tungus,0.05,MAF,Status and storage as supplied in project reference table,
+Project storage,Skardu,5.50,MAF,Status and storage as supplied in project reference table,
+Project storage,Shyok / Yugo,5.00,MAF,Status and storage as supplied in project reference table,

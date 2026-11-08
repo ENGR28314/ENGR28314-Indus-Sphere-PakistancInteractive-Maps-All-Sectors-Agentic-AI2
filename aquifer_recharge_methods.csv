@@ -1,0 +1,7 @@
+method,method_class,description
+Spreading basins,Direct surface recharge,Spread pre-treated runoff over permeable ground.
+Recharge pits,Direct surface recharge,Concentrate runoff into a filtered infiltration pit.
+Ditches / trenches,Direct surface recharge,Distribute runoff along a permeable infiltration corridor.
+Recharge wells,Direct subsurface recharge,Introduce suitably treated water into a target aquifer after hydrogeological assessment.
+Conjunctive wells / conjunctive use,Coordinated surface-water and groundwater management,"Coordinate pumping with canal, river or reservoir supplies to manage aquifer storage."
+Percolation tanks / earthen bunds,In-channel managed aquifer recharge,Impound seasonal runoff to extend infiltration time where geology permits.
